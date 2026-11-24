@@ -80,7 +80,7 @@ Le projet est organisé en quatre parties fonctionnelles :
 ## 3. Organisation des fichiers
 
 ```text
-F2_VAF/
+groupe-f2-vaf/
 │
 ├── README.md
 │
@@ -334,7 +334,7 @@ La comparaison entre les audiences permet d'observer l'influence des priorités 
 
 ## 9. Exécution du projet
 
-Depuis le dossier `F2_VAF`, ouvrir un terminal PowerShell.
+Depuis le dossier `groupe-f2-vaf`, ouvrir un terminal PowerShell.
 
 Créer et activer un environnement virtuel :
 
@@ -367,3 +367,4 @@ L'architecture repose sur une séparation entre les données, les règles de cal
 - `test_argumentation.py` vérifie le fonctionnement du moteur.
 
 **Le lien central du projet est le suivant : le VAF utilise les priorités de valeurs pour filtrer les attaques, puis le modèle de Dung analyse le débat obtenu.**
+
